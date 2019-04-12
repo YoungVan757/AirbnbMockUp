@@ -159,6 +159,7 @@ h2{
   justify-content: space-around;
 	flex-direction: column;
 	background-color: azure;
+	align-items: center;
 }
 
 .feature__heading{
